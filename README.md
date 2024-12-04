@@ -25,7 +25,7 @@ This project is a comprehensive web application that allows users to create and 
   - CSS
   - JavaScript
 - **Job Suggestions API**: 
-  - Indeed Job Search API
+  - LinkedIn Job Search API
 - **Project Recommendations API**: 
   - GitHub API
 
