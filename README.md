@@ -58,13 +58,13 @@ This project is a comprehensive web application that allows users to create and 
   - CSS
   - JavaScript
 - **Job Suggestions API**: 
-  - Indeed Job Search API
+  - LinkedIn Job Search API
 - **Project Recommendations API**: 
   - GitHub API
 
 ## Getting Started
 
-HOSTING-LINK:https://vishuswastik.github.io/Resume-builder/                         
+HOSTING-LINK:https://atif-mustafa.github.io/Resume-Builder/                         
 
 ### Step-by-Step Guide
 
